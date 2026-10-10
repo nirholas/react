@@ -1,0 +1,13 @@
+# @three-ws/react
+
+> React components for embedding three.ws 3D AI agents
+
+## Docs
+- [README](https://github.com/nirholas/react/blob/main/README.md): install, usage and API
+- [AGENTS.md](https://github.com/nirholas/react/blob/main/AGENTS.md): how an AI agent should use and modify this repo
+- [Site](https://nirholas.github.io/react/): rendered docs
+- [npm](https://www.npmjs.com/package/@three-ws/react)
+
+## Optional
+- [three.ws](https://three.ws): the platform this package belongs to
+- [llms-full.txt](https://three.ws/llms-full.txt): platform-wide index
